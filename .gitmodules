@@ -1,0 +1,3 @@
+[submodule "BPR-pytorch"]
+	path = BPRpytorch
+	url = https://github.com/guoyang9/BPR-pytorch.git
